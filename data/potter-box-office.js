@@ -73,7 +73,7 @@
 				"Composer":"Nicholas Hooper",
 				"Budget":"$250,000,000.00",
 				"BoxOffice":"$934,416,487",
-				"Image":"h6.jpg"
+				"Image":"hp6.jpg"
 			  },
 			  {
 				"Film":7,
