@@ -16,9 +16,9 @@ function serverSetup(server,cat){
        url = "api.php?cat=" + cat;
    }else{//server is HTML only - simulate web service
        if(cat == "box"){//box office
-           url = "data/bond-box-office.js";
+           url = "data/potter-box-office.js";
        }else{//year
-           url = "data/bond-year.js"; 
+           url = "potter/bond-year.js"; 
        }
    }
    return url;
@@ -79,7 +79,7 @@ function bondJSON(data){
 			<strong>Film #</strong>: ${item.Film}<br />
 			<strong>Year</strong>: ${item.Year}<br />
 			<strong>Box Office</strong>: ${item.BoxOffice}<br />
-			<strong>Writers</strong>: ${item.Writers}<br />
+			<strong>Writers</strong>: ${item.Screenwriter}<br />
 			<div class="pic"><img src="images/${item.Images}"></div>
 		`;
 		$("<div></div>").html(text).appendTo("#films");
