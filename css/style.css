@@ -27,4 +27,9 @@ body {font-family:georgia;}
 	position:absolute;
 	right:10px;
 	top:10px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 10%;
+	height: 10%;
 }
