@@ -97,6 +97,31 @@
 		   "Budget":"$250,000,000.00",
 		   "BoxOffice":"$1,341,511,219",
 		   "Image":"hp8.jpg"
+		 },
+		 {
+			"Film":9,
+			"Title":"Fantastic Beasts and Where to Find Them",
+			"Year":2016,
+			"Director":"David Yates",
+			"Producers":"David Heyman, David Barron and J. K. Rowling",
+			"Screenwriters":"Steve Kloves",
+			"Composer":"Alexandre Desplat",
+			"Budget":"$250,000,000.00",
+			"BoxOffice":"$1,341,511,219",
+			"Image":"hp8.jpg"
+		 },
+		 {
+			"Film":10,
+			"Title":"Fantastic Beasts: The Crimes of Grindelwald",
+			"Year":2018,
+			"Director":"David Yates",
+			"Producers":"David Heyman, David Barron and J. K. Rowling",
+			"Screenwriters":"Steve Kloves",
+			"Composer":"Alexandre Desplat",
+			"Budget":"$250,000,000.00",
+			"BoxOffice":"$1,341,511,219",
+			"Image":"hp8.jpg"
+
 		 }
 
 ]
